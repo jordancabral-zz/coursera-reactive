@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="SBT: org.hamcrest:hamcrest-core:1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../jcabral/Dropbox/Coursera/reactive/quickcheck/lib_managed/jars/org.hamcrest/hamcrest-core/hamcrest-core-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../jcabral/Dropbox/Coursera/reactive/quickcheck-old/lib_managed/jars/org.hamcrest/hamcrest-core/hamcrest-core-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../jcabral/Dropbox/Coursera/reactive/quickcheck/lib_managed/srcs/org.hamcrest/hamcrest-core/hamcrest-core-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

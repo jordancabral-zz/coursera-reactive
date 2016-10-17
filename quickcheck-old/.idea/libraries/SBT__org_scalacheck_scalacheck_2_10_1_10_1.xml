@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="SBT: org.scalacheck:scalacheck_2.10:1.10.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../jcabral/Dropbox/Coursera/reactive/quickcheck/lib_managed/jars/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../jcabral/Dropbox/Coursera/reactive/quickcheck-old/lib_managed/jars/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../../jcabral/Dropbox/Coursera/reactive/quickcheck/lib_managed/docs/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../jcabral/Dropbox/Coursera/reactive/quickcheck/lib_managed/srcs/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

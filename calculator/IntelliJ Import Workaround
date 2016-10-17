@@ -1,0 +1,9 @@
+I found a workaround for the problem.
+(First, if you had already imported this project in IDEA, close it, and delete the `.idea/` directory that IntelliJ generated.)
+Move `webui.sbt` to different directory (in your home or anywhere else not in the calculator/ directory.
+Now import into IntelliJ
+Move `webui.sbt` back to its original place.
+This will allow IntelliJ to import the sbt project correctly, while the webUI project is not there for it to get confused. You need not work within the webUI project for the assignment anyway (only use the webUI/fastOptJS task from sbt).
+
+
+You can alternatively mark the webui.sbt file as plain text and on the sbt tab refresh all sbt projects. IDEA seems to ignore the webui.sbt after that and successfully imports the project.

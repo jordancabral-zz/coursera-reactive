@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="deprecationWarnings" value="true" />
+    <parameters>
+      <parameter value="-feature" />
+    </parameters>
+    <profile name="Profile 1" modules="">
+      <parameters>
+        <parameter value="-Xplugin:/home/jordan/.ivy2/cache/org.scala-js/scalajs-compiler_2.11.6/jars/scalajs-compiler_2.11.6-0.6.2.jar" />
+      </parameters>
+    </profile>
+    <profile name="SBT 2" modules="assignment,submission">
+      <option name="deprecationWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+    </profile>
+    <profile name="SBT 3" modules="webUI">
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/org.scala-js/scalajs-compiler_2.11.6/jars/scalajs-compiler_2.11.6-0.6.2.jar" />
+      </plugins>
+    </profile>
+  </component>
+</project>

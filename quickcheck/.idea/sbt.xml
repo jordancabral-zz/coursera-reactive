@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="jdk" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../../../../jcabral/Dropbox/Coursera/reactive/quickcheck" />
+            <option value="$PROJECT_DIR$/../../../../../jcabral/Dropbox/Coursera/reactive/quickcheck/project" />
+            <option value="$PROJECT_DIR$/../../../../../jcabral/Dropbox/Coursera/reactive/quickcheck/submission" />
+            <option value="$PROJECT_DIR$/../../../../../jcabral/Dropbox/Coursera/reactive/quickcheck/submission/project" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>
+
